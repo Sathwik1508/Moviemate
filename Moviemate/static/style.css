@@ -1,0 +1,6 @@
+body { background: #f8f9fa; }
+header { box-shadow: 0 2px 4px rgba(0,0,0,0.05); }
+.card { box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+.add-watchlist { transition: background 0.2s; }
+.add-watchlist.added { background: #28a745; color: #fff; }
+footer { font-size: 0.95em; color: #666; }
